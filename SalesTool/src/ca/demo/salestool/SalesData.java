@@ -11,6 +11,7 @@ public class SalesData {
 		System.out.println("Data: ");
 		
 		int sum = 0;
+
 //      replaced by foreach loop
 		for(int i: data) {
 			System.out.println("Next value: " + i);
